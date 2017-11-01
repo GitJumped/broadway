@@ -7,3 +7,31 @@ h1 {
   font-weight: bold;
   color: white;
 }
+a {
+  font-family: Helvetica
+  font-size: 18px;
+  color: white;
+}
+#nav {
+  background-image: url(the-flatiron-building.png);
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+#bar {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(the-flatiron-building.png);
+}
+footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
