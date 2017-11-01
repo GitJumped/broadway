@@ -1,14 +1,13 @@
 body {
   text-align: center;
+  font-family: Helvetica;
 }
 h1 {
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 a {
-  font-family: Helvetica
   font-size: 18px;
   color: white;
 }
@@ -34,4 +33,7 @@ footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+footer.span {
+  font-size: 18px;
 }
